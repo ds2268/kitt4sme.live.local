@@ -6,7 +6,7 @@ metadata:
 spec:
   project: mesh-infra
   source:
-    repoURL: TODO
+    repoURL: https://github.com/ds2268/kitt4sme.live.local
     targetRevision: HEAD
     path: deployment/mesh-infra/app
   destination:
